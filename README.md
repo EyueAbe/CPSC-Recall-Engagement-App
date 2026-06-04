@@ -49,6 +49,7 @@ The goal of SafeCheck is to reduce the barriers that prevent consumers from part
 * External recall/product data APIs
 
 ## Backend Architecture
+<img width="976" height="605" alt="image" src="https://github.com/user-attachments/assets/8ee7df8e-6496-4b0b-96a1-0351e960a64c" />
 
 The backend is built using AWS services. The mobile app sends requests through API Gateway, which connects to AWS Lambda functions for backend logic. Amazon Cognito handles user sign-in and sign-up. DynamoDB stores user data, product inventory, recall checks, and community-related information. Amazon S3 is used for file storage, while CloudWatch supports logging and monitoring. Amazon Bedrock powers the AI assistant, and IAM manages permissions between AWS services.
 
