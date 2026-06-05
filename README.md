@@ -8,7 +8,7 @@ The goal of SafeCheck is to reduce the barriers that prevent consumers from part
 
 ## Demo Video
 
-[Watch the SafeCheck demo video] file:///C:/Users/eyuel/Downloads/ScreenRecording_05-04-2026%2003-54-37_1%20(2).MP4
+[Watch the SafeCheck demo video][ file:///C:/Users/eyuel/Downloads/ScreenRecording_05-04-2026%2003-54-37_1%20(2).MP4](https://drive.google.com/file/d/1H1Da7cTi2vVk12-WsdKMOzUiQw_g0khh/view?usp=sharing)
 
 ## Features
 
